@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+pydub
+requests
+Flask
+pypdf
+gunicorn
